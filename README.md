@@ -1,7 +1,7 @@
 
 ## Repo Init ##
 ```bash
-repo init -u https://github.com/prabhatKrMishra/android_kernel_manifest.git -b msm-5.4-holi
+repo init -u https://github.com/prabhatKrMishra/android_kernel_manifest.git -b msm-6.1-blair
 ```
 ## Sync Source ##
 ```bash
